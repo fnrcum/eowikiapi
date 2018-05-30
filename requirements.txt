@@ -1,0 +1,6 @@
+flask >= 0.12
+flask-restful >= 0.3
+passlib >= 1.7
+rethinkdb >= 2.3
+python-jose >= 3
+flask-jwt >= 0.3.2
